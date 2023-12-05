@@ -5,3 +5,5 @@ This tool has been deprecated because i can't support it ;c
 
 # Discord-Nitro-BruteForce
 simple discord nitro code generator and checker written in c#
+
+
